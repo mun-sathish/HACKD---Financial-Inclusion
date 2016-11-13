@@ -9,9 +9,9 @@ My team took "Financial Inclusion" as the theme & handled a problem statment nam
 Codes are kept confidential due to policy issue.
 
 #TEAM MEMBErS:
-Sathish. V (Myself)
-Utsab Dutta
-Shubham Verma
+Sathish. V (Myself) <br/>
+Utsab Dutta<br/>
+Shubham Verma<br/>
 Sujeet Kumar
 
 #Location: 
