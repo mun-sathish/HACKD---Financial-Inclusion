@@ -14,7 +14,7 @@ Utsab Dutta<br/>
 Shubham Verma<br/>
 Sujeet Kumar
 
-<b>Location:</b> 
+<b>Location:</b> <br/>
 Envestnet Office,<br/>
 Trivandrum.<br/>
 Date: 16-Oct, 2016
