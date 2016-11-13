@@ -1,6 +1,6 @@
 # HACKD - Financial-Inclusion
 
-Envestnet | Yodlee Company conducted a National Level Hackathon under 2 major themes:
+Envestnet | Yodlee Company conducted a National Level Hackathon under 2 major themes:<br/>
 1) Financial Inclusion<br/>
 2) Health Care
 
